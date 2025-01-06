@@ -3,6 +3,8 @@
 
 Esse projeto foi um desafio de criar uma aplicação simples e eficiente para o gerenciamento de inventário de produtos. Nesse projeto você pode adicionar, listar, buscar, atualizar e excluir produtos, mantendo seus dados persistentes em um arquivo JSON.
 
+A principio, eu iria fazer em Java para reaproveitar de meus projetos em springboot parecidos com esse, mas como o desafio tinha como objetivo opcionalmente salvar os arquivos em JSON, eu decidi fazer em python, pois é mais simples e rapido de implementar.
+
 # 🚀 Funcionalidades Principais
 
 Ao rodar o programa, você terá acesso a um menu com as seguintes opções:
