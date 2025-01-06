@@ -134,7 +134,7 @@ Todos os produtos são armazenados em um arquivo `products.json`, garantindo que
 # 🖥 Interface Gráfica
 
 Eu também optei por fazer uma interface gráfica para o projeto, para facilitar a interação com o usuário.
-para testa-lá basta executar o arquivo [mainComInterface.py](C:\AgileStore_Products\mainComInterface.py)
+para testá-la basta executar o arquivo [mainComInterface.py](./mainComInterface.py)
 A interface foi desenvolvida com o Tkinter, oferecendo uma experiência de usuário visualmente agradável e fácil de usar. Ela inclui:
 
 * Entradas de texto para os dados do produto.
