@@ -76,7 +76,6 @@ Exemplo da estrutura utilizada na tabela:
     9     | Boleto á pagar                      | Contas          | 50         | 19.99
    ```
 
-
 ## 3. Buscar Produto
 
 Facilita a localização de um produto específico. Você pode:
