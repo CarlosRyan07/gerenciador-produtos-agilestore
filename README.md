@@ -140,3 +140,5 @@ A interface foi desenvolvida com o Tkinter, oferecendo uma experiência de usuá
 * Entradas de texto para os dados do produto.
 * Tabela interativa para visualizar e editar os produtos.
 * Botões para adicionar, atualizar, excluir, buscar e filtrar produtos.
+
+![Tela da Interface Gráfica](./images/TelaInterface.png)
