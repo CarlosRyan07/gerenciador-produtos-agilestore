@@ -1,0 +1,72 @@
+[
+    {
+        "id": 2,
+        "name": "Fusca",
+        "category": "Carro",
+        "quantity": 10,
+        "price": 30000.0
+    },
+    {
+        "id": 3,
+        "name": "Cerveja Skol",
+        "category": "Bebidas",
+        "quantity": 120,
+        "price": 2.5
+    },
+    {
+        "id": 4,
+        "name": "Honda CBR 1000",
+        "category": "Moto",
+        "quantity": 8,
+        "price": 45000.0
+    },
+    {
+        "id": 6,
+        "name": "Suco",
+        "category": "Bebidas",
+        "quantity": 30,
+        "price": 4.99
+    },
+    {
+        "id": 7,
+        "name": "Civic 2024",
+        "category": "Carro",
+        "quantity": 3,
+        "price": 95000.0
+    },
+    {
+        "id": 8,
+        "name": "Ficando rico rápido(Não funciona)",
+        "category": "Curso",
+        "quantity": 99,
+        "price": 99.99
+    },
+    {
+        "id": 9,
+        "name": "Boleto á pagar",
+        "category": "Contas",
+        "quantity": 50,
+        "price": 19.99
+    },
+    {
+        "id": 11,
+        "name": "Mochila Voadora do GTA",
+        "category": "Tecnologia",
+        "quantity": 1,
+        "price": 50000.0
+    },
+    {
+        "id": 12,
+        "name": "Vale Boleto Pago",
+        "category": "Ticket",
+        "quantity": 2,
+        "price": 1.0
+    },
+    {
+        "id": 13,
+        "name": "Filme do Superman Adiantado",
+        "category": "Filme",
+        "quantity": 1,
+        "price": 200.0
+    }
+]
